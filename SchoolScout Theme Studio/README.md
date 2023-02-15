@@ -5,7 +5,7 @@
 
 **Open SchoolScout Theme Studio in a code editor or IDE, and open a local preview of 'index.html'**
 
-It should look familiar as it is built off of BHHS SchoolScout (SchoolScout 4.2023). However, 'My Classes' and notes are disabled and, times are frozen to allow design at any time.
+It should look familiar as it is built off of BHHS SchoolScout (SchoolScout 4.2023). However, notes are disabled and times are frozen to allow design at any time.
 
 </p>
 
