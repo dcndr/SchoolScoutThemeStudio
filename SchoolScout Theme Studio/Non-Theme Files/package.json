@@ -1,0 +1,17 @@
+{
+  "name": "SchoolScout Theme Studio",
+  "version": "4",
+  "description": "Design themes for SchoolScout!",
+  "main": "dashboard.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ../public"
+  },
+  "author": "Darren Candra",
+  "license": "(C) SchoolScout 2022-23. ALL Rights Reserved.",
+  "dependencies": {
+    "ical.js": "^1.5.0",
+    "muuri": "^0.9.5",
+    "serve": "^11.3.2"
+  }
+}
